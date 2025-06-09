@@ -1,3 +1,3 @@
 # virus-explains
 
-Run on your own risk
+Run at your own risk
